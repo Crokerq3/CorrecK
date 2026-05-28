@@ -1,0 +1,15 @@
+{
+  "buenos": [
+    ["https://www.inbox.eu", "f8be1023-63ce-44e8-9109-2bc2482ab9fd"],
+    ["https://2captcha.com", "41b778e7-8f20-45cc-a804-1f1ebb45c579"],
+    ["https://funkoeurope.com", "b989d9e8-0d14-41a0-870f-97b5283ba67d"],
+    ["https://netu.", "a7323b39-a0d6-43f8-8121-eb9e32b2fb4e"],
+    ["https://www.kucoin.com", "0ae3f87c-8d4d-44b0-bb90-2370959e8438"]
+  ],
+  "malos": [
+    "https://kolotibablo.com",
+    "https://hypnotic-sumptuous-hugger.glitch.me",
+    "https://cav.receita.fazenda.gov.br",
+    "https://portalservicos.senatran.serpro.gov.br"
+  ]
+}
