@@ -406,5 +406,8 @@
     ["https://www.revolut.com", "6f52657b-c8f1-44e4-aa9d-24731b318034"],
     ["https://app.mos.gg", "6f6c02cf-cbcd-4bd9-9dfe-d847b56befca"],
 	  ["https://caf.mda.gov.br/", "bdcae88c-6fbc-4b78-bf74-125894bedd54"],
-	  ["https://app.mos.gg", "6f6c02cf-cbcd-4bd9-9dfe-d847b56befca"]
+	 ["https://booking.croatiaairlines.com/plnext/FPCcroatiaairlinesDX/Override.action", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"],
+["https://www.nfe.fazenda.gov.br/portal/consultaRecaptcha.aspx", "e72d2f82-9594-4448-a875-47ded9a1898a"],
+["https://booking.croatiaairlines.com/IncapsulaResource", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"]
+
  }
