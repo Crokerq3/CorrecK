@@ -1,5 +1,5 @@
 {
-  "buenos": [
+ 
     ["https://www.inbox.eu", "f8be1023-63ce-44e8-9109-2bc2482ab9fd"],
     ["https://2captcha.com", "41b778e7-8f20-45cc-a804-1f1ebb45c579"],
     ["https://funkoeurope.com", "b989d9e8-0d14-41a0-870f-97b5283ba67d"],
@@ -404,7 +404,7 @@
     ["https://freechurros.com", "cb20d527-b8a5-4a1d-910c-1175662bf02f"],
     ["https://www.revolut.com", "16ce9e1e-9bcd-4304-8d9c-a4827f1f9647"],
     ["https://www.revolut.com", "6f52657b-c8f1-44e4-aa9d-24731b318034"],
-    ["https://app.mos.gg", "6f6c02cf-cbcd-4bd9-9dfe-d847b56befca"]
-  ],
-  "malos": [
-    "https://kolotibablo.com",
+    ["https://app.mos.gg", "6f6c02cf-cbcd-4bd9-9dfe-d847b56befca"],
+	  ["https://caf.mda.gov.br/", "bdcae88c-6fbc-4b78-bf74-125894bedd54"],
+	  ["https://app.mos.gg", "6f6c02cf-cbcd-4bd9-9dfe-d847b56befca"]
+ }
