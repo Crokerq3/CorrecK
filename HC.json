@@ -1,10 +1,10 @@
 {
- 
+  "buenos": [
     ["https://www.inbox.eu", "f8be1023-63ce-44e8-9109-2bc2482ab9fd"],
     ["https://2captcha.com", "41b778e7-8f20-45cc-a804-1f1ebb45c579"],
     ["https://funkoeurope.com", "b989d9e8-0d14-41a0-870f-97b5283ba67d"],
     ["https://netu.", "a7323b39-a0d6-43f8-8121-eb9e32b2fb4e"],
-    ["https://www.kucoin.com", "0ae3f87c-8d4d-44b0-bb90-2370959e8438"],
+    ["https://www.kucoin.com", "0ae3f87c-8d4d-44b0-bb90-2370959e8438"]
     ["https://www.kucoin.com", "0ae3f87c-8d4d-44b0-bb90-2370959e8438"],
     ["https://digital.evaair.com/IncapsulaResource", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"],
         ["https://splits.gg/", "b5d12bc2-ccd8-441d-8bf1-ceb05f462f2c"],
@@ -56,6 +56,7 @@
 ["https://store.galeriewines.com/", "74b57941-e4a1-434a-8304-d435347d4eab"],
 ["getTaskResult", "cf0b9a27-82e3-42fb-bfec-562f8045e495"],
     ["https://cwallet.com/login", "94f218a4-494c-47ac-8da9-d7331ee1a466"],
+    // Seguros:
     ["https://www.safeway.com/", "dd6e16a7-972e-47d2-93d0-96642fb6d8de"],
     ["https://store.galeriewines.com/", "74b57941-e4a1-434a-8304-d435347d4eab"],
 ["getTaskResult", "cf0b9a27-82e3-42fb-bfec-562f8045e495"],
@@ -405,9 +406,16 @@
     ["https://www.revolut.com", "16ce9e1e-9bcd-4304-8d9c-a4827f1f9647"],
     ["https://www.revolut.com", "6f52657b-c8f1-44e4-aa9d-24731b318034"],
     ["https://app.mos.gg", "6f6c02cf-cbcd-4bd9-9dfe-d847b56befca"],
-	  ["https://caf.mda.gov.br/", "bdcae88c-6fbc-4b78-bf74-125894bedd54"],
-	 ["https://booking.croatiaairlines.com/plnext/FPCcroatiaairlinesDX/Override.action", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"],
+	  ["https://booking.croatiaairlines.com/plnext/FPCcroatiaairlinesDX/Override.action", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"],
 ["https://www.nfe.fazenda.gov.br/portal/consultaRecaptcha.aspx", "e72d2f82-9594-4448-a875-47ded9a1898a"],
-["https://booking.croatiaairlines.com/IncapsulaResource", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"]
-
- }
+["https://booking.croatiaairlines.com/IncapsulaResource", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"],
+["https://www.nfe.fazenda.gov.br/portal/consultaRecaptcha.aspx", "e72d2f82-9594-4448-a875-47ded9a1898a"],
+["https://www.citaconsular.es/es/hosteds/widgetdefault/2c039df3dc9a6247ce3eb934b7a2c949c/", "38663b6a-85dc-4346-965e-f066cd8e7d26"]
+  ],
+  "malos": [
+    "https://kolotibablo.com",
+    "https://hypnotic-sumptuous-hugger.glitch.me",
+    "https://cav.receita.fazenda.gov.br",
+    "https://portalservicos.senatran.serpro.gov.br"
+  ]
+}
