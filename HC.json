@@ -414,7 +414,11 @@
 	  ["https://www.airchina.de/IncapsulaResource", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"],
 ["https://book.smartwings.com/IncapsulaResource", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"],
 	  ["https://www.lift.co.za//controllers/flightresults/flightList.php", "dd6e16a7-972e-47d2-93d0-96642fb6d8de"],
-	  ["https://appointment.cloud.diplomatie.be/Captcha", "5f64399c-14a8-415e-ad1a-7ebccdc4943a"]
+	  ["https://appointment.cloud.diplomatie.be/Captcha", "5f64399c-14a8-415e-ad1a-7ebccdc4943a"],
+	   ["https://lift-api.vfsglobal.com/", "9278ebd4-da60-402a-ac8a-e604bc4ac524"],
+ ["https://www.optoutprescreen.com/form", "3db229f6-bf0c-4c7e-b158-ed047c5a42e4"],
+ ["https://book.smartwings.com/plnext/smartwingsDX/FlexPricerAvailability.action;jsessionidt7ThV6gIcYKLEp-OdS5GZqK7sQ67vcnUB2HySkvs1783637116198", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"],
+ ["https://www.paypal.com/signin", "bf07db68-5c2e-42e8-8779-ea8384890eea"]
   ],
   "malos": [
     "https://kolotibablo.com",
