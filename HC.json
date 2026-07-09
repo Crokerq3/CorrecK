@@ -418,7 +418,8 @@
 	   ["https://lift-api.vfsglobal.com/", "9278ebd4-da60-402a-ac8a-e604bc4ac524"],
  ["https://www.optoutprescreen.com/form", "3db229f6-bf0c-4c7e-b158-ed047c5a42e4"],
  ["https://book.smartwings.com/plnext/smartwingsDX/FlexPricerAvailability.action;jsessionidt7ThV6gIcYKLEp-OdS5GZqK7sQ67vcnUB2HySkvs1783637116198", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"],
- ["https://www.paypal.com/signin", "bf07db68-5c2e-42e8-8779-ea8384890eea"]
+ ["https://www.paypal.com/signin", "bf07db68-5c2e-42e8-8779-ea8384890eea"],
+	   ["https://www3.tjrj.jus.br/PORTALEXTRAJUDICIAL/CNO/", "62febbd2-c2ac-4156-b9d9-e37347e954b5"]
   ],
   "malos": [
     "https://kolotibablo.com",
