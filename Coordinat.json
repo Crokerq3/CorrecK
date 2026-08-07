@@ -73,6 +73,8 @@
   "Press in the following order": 5,
   "If this is a slide puzzle click ONCE on the center of the missing puzzle gap. If this is a click-in-order or matching puzzle click on the shapesicons in the correct order.": 1,
   "Amazon 3x3 image grid clocks": 5,
-  "Task: Click center of 3 objects in specified order MUST HAVE CLICK 3 POINTS !": 3
+  "Task: Click center of 3 objects in specified order MUST HAVE CLICK 3 POINTS !": 3,
+  "Task: Follow the example": 6
+
 
 }
