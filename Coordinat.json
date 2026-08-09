@@ -81,7 +81,8 @@
   "Task: Click on everything that can be processed using the item shown": 2,
   "Task: Click only matching image tiles in the grid below the instruction. Never click the instruction text or blank areas. English instruction Click on two arrows that do not match the pattern": 1,
   "Task: Click only matching image tiles in the grid below the instruction. Never click the instruction text or blank areas. English instruction Click on the animal that jumps highest": 3,
-  "Task: Mark the center of the dark black puzzle-piece-shaped hole on the right": 3
+  "Task: Mark the center of the dark black puzzle-piece-shaped hole on the right": 3,
+  "Task: Select objects as shown": 6
 
 
 }
