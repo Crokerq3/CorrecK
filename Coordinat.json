@@ -79,7 +79,8 @@
   "Task: Mark the center of the empty puzzle-piece-shaped gap": 1,
   "Task: Follow the example": 4,
   "Task: Click on everything that can be processed using the item shown": 2,
-  "Task: Click only matching image tiles in the grid below the instruction. Never click the instruction text or blank areas. English instruction Click on two arrows that do not match the pattern": 1
+  "Task: Click only matching image tiles in the grid below the instruction. Never click the instruction text or blank areas. English instruction Click on two arrows that do not match the pattern": 1,
+  "Task: Click only matching image tiles in the grid below the instruction. Never click the instruction text or blank areas. English instruction Click on the animal that jumps highest": 3
 
 
 }
