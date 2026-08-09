@@ -74,7 +74,8 @@
   "If this is a slide puzzle click ONCE on the center of the missing puzzle gap. If this is a click-in-order or matching puzzle click on the shapesicons in the correct order.": 1,
   "Amazon 3x3 image grid clocks": 5,
   "Task: reCAPTCHA instruction Select all squares with motorcycles. Click every matching squaretile in the image grid. Return one point near the center of every matching tile. Ignore header text controls and buttons": 4,
-  "Task: reCAPTCHA instruction Select all squares with stairs. Visually inspect the image and click every matching squaretile in the grid. Return one point near the center of every matching tile. Ignore header text controls buttons blue check marks and any p": 4
+  "Task: reCAPTCHA instruction Select all squares with stairs. Visually inspect the image and click every matching squaretile in the grid. Return one point near the center of every matching tile. Ignore header text controls buttons blue check marks and any p": 4,
+  "Task: Select object in the specified order": 5
 
 
 }
