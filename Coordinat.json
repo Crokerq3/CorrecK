@@ -85,7 +85,8 @@
   "Task: Select objects as shown": 6,
   "Task: Mark exactly one point the center of the dark recessed target hole in this slider CAPTCHA image.": 1,
   "Task: Click on all things you can process using the object shown": 3,
-  "Task: The small reference image is at the top-left on the white strip. In the large image below click on EVERY object that looks like the reference. Click each one exactly once at its center.": 3
+  "Task: The small reference image is at the top-left on the white strip. In the large image below click on EVERY object that looks like the reference. Click each one exactly once at its center.": 3,
+  "Task: Follow the example and select objects": 5
 
 
 }
