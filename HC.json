@@ -428,7 +428,12 @@
 ["https://driverpracticaltest.dvsa.gov.uk/application", "e94865c2-4231-4c25-9c6e-2b797b2b56cf"],
 	  ["https://www.paypal.com/signin", "bf07db68-5c2e-42e8-8779-ea8384890eea"],
 ["https://identidad.ibercaja.es/soporte/plataforma/identidad/api/v1/connect/authorize", "dd6e16a7-972e-47d2-93d0-96642fb6d8de"],
-["https://portal.tce.rs.gov.br", "b14a32a4-d534-4ef8-a2de-3f407ad41ba2"]
+["https://portal.tce.rs.gov.br", "b14a32a4-d534-4ef8-a2de-3f407ad41ba2"],
+	  ["https://web1.civicacmi.com/Whitehall/Court/Default.aspx", "15248624-ea5a-42b4-9050-5ff80a4ebdb6"],
+["https://booking.flightlink.co.tz//flight-results/JRO-HKR/2026-08-22/NA/1/0/0", "dd6e16a7-972e-47d2-93d0-96642fb6d8de"],
+["https://www.flysafarilink.com/flight-results/HKR-WIL/2027-04-11/NA/1/0/0", "dd6e16a7-972e-47d2-93d0-96642fb6d8de"],
+["https://airastana.com/global-en/global/en-us", "dd6e16a7-972e-47d2-93d0-96642fb6d8de"],
+["https://apps.stjohnsclerk.com/Benchmark/Home.aspx/Search", "53a34568-fd9e-4e09-b1ae-39f2df80c319"]
   ],
   "malos": [
     "https://kolotibablo.com",
